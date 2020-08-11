@@ -1,0 +1,10 @@
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\bin\Debug\Calculadora Aula2.exe.config
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\bin\Debug\Calculadora Aula2.exe
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\bin\Debug\Calculadora Aula2.pdb
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\obj\Debug\Calculadora Aula2.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\obj\Debug\Calculadora_Aula2.Properties.Resources.resources
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\obj\Debug\Calculadora Aula2.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\obj\Debug\Calculadora Aula2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\obj\Debug\Calculadora Aula2.exe
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\obj\Debug\Calculadora Aula2.pdb
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Aula2\obj\Debug\Calculadora_Aula2.CALCULADORA.resources
